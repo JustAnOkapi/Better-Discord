@@ -1,0 +1,17 @@
+/* ===================================================== */
+/* Selected Text Chanel */
+/* ===================================================== */
+.contentSelectedText-3wUhMi{
+  background: linear-gradient(90deg, rgba(0,0,0,0), var(--tc-selected-channel)) !important;}
+
+/* ===================================================== */
+/* Selected Text Chanel Hovered */
+/* ===================================================== */
+.contentSelectedText-3wUhMi:hover{
+  background: linear-gradient(90deg, var(--tc-hovered-channel), var(--tc-selected-channel)) !important;}
+
+/* ===================================================== */
+/* Hovered Text Channel */
+/* ===================================================== */
+.contentHoveredText-2D9B-x{
+  background: linear-gradient(90deg, var(--tc-hovered-channel), rgba(0,0,0,0)) !important;}
