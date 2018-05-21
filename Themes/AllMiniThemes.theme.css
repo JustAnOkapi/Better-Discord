@@ -8,11 +8,14 @@
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredDivider/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCenterText/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomLoad/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredScroll/yes.css";
 :root{
   --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
   --tc-selected-channel: #2989d8; /* color for text chanels when selected */
   --tc-color1: #5bbbff; /* the main theme color */
   --tc-color2: #2989d8; /* the second theme color */
+  --tc-scrollbar: rgba(91, 187, 255, 1); /* color of the scroll bar */
+  --tc-scrollbar-a: rgba(91, 187, 255, 0.4); /* same as --tc-scrollbar but with 0.4 alpha*/
   --background: #2c2f33; /* examples: blue, #2C2F33, url(https://www.example.com/example.png) */
   --tint-low: rgba(0,0,0,0); /* tint that covers full background default: rgba(0,0,0,0.3) */
   --tint-high: rgba(0,0,0,0); /* tint that covers parts of the screen default: rgba(0,0,0,0.8) */
