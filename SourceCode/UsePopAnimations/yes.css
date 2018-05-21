@@ -1,0 +1,8 @@
+.memberOnline-1CIh-0:hover{
+    transform: translateX(-10px) !important;
+    transition: 0.2s !important;
+}
+.memberOnline-1CIh-0:not(:hover){
+    transform: translateX(10px) !important;
+    transition: 0.2s !important;
+}

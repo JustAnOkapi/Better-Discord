@@ -1,4 +1,4 @@
-/*//META{"name":"All Mini Themes", "description":"All Of Just An Okapi's Mini Themes In One Package.", "version":"4", "author":"Just An Okapi"}*//**/
+/*//META{"name":"All Mini Themes", "description":"All Of Just An Okapi's Mini Themes In One Package.", "version":"11", "author":"Just An Okapi"}*//**/
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseBackgroundTint/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomBackground/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseIconZoom/yes.css";
@@ -9,6 +9,7 @@
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCenterText/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomLoad/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredScroll/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UsePopAnimations/yes.css";
 :root{
   --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
   --tc-selected-channel: #2989d8; /* color for text chanels when selected */
