@@ -1,30 +1,33 @@
 /*//META{"name":"All Mini Themes", "description":"All Of Just An Okapi's Mini Themes In One Package.", "version":"4", "author":"Just An Okapi"}*//**/
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/SourceCode/UseBackgroundTint/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/SourceCode/UseCustomeBackgroud/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/SourceCode/UseIconZoom/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/SourceCode/UseSquircleIcon/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/SourceCode/UseRadialStatus/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/SourceCode/UseColoredChannels/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/SourceCode/UseColoredDivider/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseBackgroundTint/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomBackgroud/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseIconZoom/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseSquircleIcon/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseRadialStatus/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredChannels/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredDivider/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomLoad/yes.css";
 :root{
-  --tc-hovered-channel: #5bbbff !important; /* color for text chanels when hovered */
-  --tc-selected-channel: #2989d8 !important; /* color for text chanels when selected */
-  --tc-color1: #5bbbff !important; /* the main theme color */
-  --tc-color2: #2989d8 !important; /* the second theme color */
-  --background: #2c2f33 !important; /* examples: blue, #2C2F33, url(https://www.example.com/example.png) */
-  --tint-low: rgba(0,0,0,0) !important; /* tint that covers full background default: rgba(0,0,0,0.3) */
-  --tint-high: rgba(0,0,0,0) !important; /* tint that covers parts of the screen default: rgba(0,0,0,0.8) */
-  --rs-spacing: -0.5px !important; /* spacing between avatar and status */
-  --rs-width: 4px !important; /* width of the status */
-  --rs-popout-spacing: -0.5px !important; /* spacing between avatar and status for user popouts */
-  --rs-popout-width: 5px !important; /* width of the status for user popouts */
-  --rs-profile-spacing: -0.5px !important; /* spacing between avatar and status on modals/profiles */
-  --rs-profile-width: 3px !important; /* width of the status on modals/profiles */
-  --rs-online-color: #43b581 !important; /* color for online status */
-  --rs-idle-color: #faa61a !important; /* color for idle status */
-  --rs-dnd-color: #f04747 !important; /* color for dnd status */
-  --rs-offline-color: #636b75 !important; /* color for offline status */
-  --rs-invisible-color: #747f8d !important; /* color for invisible status */
-  --rs-streaming-color: #643da7 !important; /* color for streaming status */
-
+  --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
+  --tc-selected-channel: #2989d8; /* color for text chanels when selected */
+  --tc-color1: #5bbbff; /* the main theme color */
+  --tc-color2: #2989d8; /* the second theme color */
+  --background: #2c2f33; /* examples: blue, #2C2F33, url(https://www.example.com/example.png) */
+  --tint-low: rgba(0,0,0,0); /* tint that covers full background default: rgba(0,0,0,0.3) */
+  --tint-high: rgba(0,0,0,0); /* tint that covers parts of the screen default: rgba(0,0,0,0.8) */
+  --rs-spacing: -0.5px; /* spacing between avatar and status */
+  --rs-width: 4px; /* width of the status */
+  --rs-popout-spacing: -0.5px; /* spacing between avatar and status for user popouts */
+  --rs-popout-width: 5px; /* width of the status for user popouts */
+  --rs-profile-spacing: -0.5px; /* spacing between avatar and status on modals/profiles */
+  --rs-profile-width: 3px; /* width of the status on modals/profiles */
+  --rs-online-color: #43b581; /* color for online status */
+  --rs-idle-color: #faa61a; /* color for idle status */
+  --rs-dnd-color: #f04747; /* color for dnd status */
+  --rs-offline-color: #636b75; /* color for offline status */
+  --rs-invisible-color: #747f8d; /* color for invisible status */
+  --rs-streaming-color: #643da7; /* color for streaming status */
+  --load1: "All Mini Themes"; /* the 1st loading message */
+  --load2: "By"; /* the 2st loading message */
+  --load3: "Just An Okapi"; /* the 3st loading message */
 }
