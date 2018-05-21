@@ -1,15 +1,5 @@
-/*//META{"name":"All Mini Themes", "description":"All Of Just An Okapi's Mini Themes In One Package.", "version":"11", "author":"Just An Okapi"}*//**/
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseBackgroundTint/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomBackground/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseIconZoom/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseSquircleIcon/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseRadialStatus/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredChannels/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredDivider/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCenterText/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomLoad/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredScroll/yes.css";
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UsePopAnimations/yes.css";
+/*//META{"name":"All Mini Themes auto update", "description":"All Of Just An Okapi's Mini Themes In One Package.", "version":"ersion", "author":"Just An Okapi"}*//**/
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/Min/AllMiniThemes.css";
 :root {
   --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
   --tc-selected-channel: #2989d8; /* color for text chanels when selected */

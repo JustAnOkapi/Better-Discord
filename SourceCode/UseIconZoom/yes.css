@@ -1,4 +1,4 @@
-.message-group .avatar-large:hover {
+.avatar-large:hover {
   margin-left: 10px !important;
   width: 100px !important;
   height: 100px !important;
@@ -7,7 +7,7 @@
   opacity: 1 !important;
 }
 
-.message-group .avatar-large:not(:hover) {
+.avatar-large:not(:hover) {
   width: 40px !important;
   height: 40px !important;
   margin-left: 10px !important;
