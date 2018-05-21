@@ -8,6 +8,13 @@
 .nameLockedText-3pqQcL,
 .nameLockedVoice-26MhB1,
 .nameMutedText-3Vj4bM,
-.nameMutedVoice-3oxyQZ{
+.nameMutedVoice-3oxyQZ,
+.topic-2QX7LI,
+.textArea-2Spzkt,
+.sidebar,
+.membersGroup-v9BXpm{
   text-align: center !important;
+}
+.channelTextArea-rNsIhG{
+  margin: 10px 0 0 0 !important;
 }
