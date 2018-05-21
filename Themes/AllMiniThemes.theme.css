@@ -6,6 +6,7 @@
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseRadialStatus/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredChannels/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredDivider/yes.css";
+@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCenterText/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomLoad/yes.css";
 :root{
   --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
