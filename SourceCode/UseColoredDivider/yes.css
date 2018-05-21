@@ -1,17 +1,30 @@
-.divider.divider-red:before{
-  background: linear-gradient(90deg, rgba(0,0,0,0.4), var(--tc-color1), rgba(0,0,0,0.4)) !important;}
-.divider.divider-red > div{
-  background: none !important;}
-.divider.divider-red > span{
+.divider.divider-red:before {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), var(--tc-color1), rgba(0, 0, 0, 0.4)) !important;
+}
+
+.divider.divider-red>div {
+  background: none !important;
+}
+
+.divider.divider-red>span {
   background: var(--tc-color2) !important;
   color: var(--tc-color1) !important;
-  animation: mentions 3s infinite !important;}
-.divider:before{
-  background: linear-gradient(90deg, rgba(0,0,0,0.4), var(--tc-color1), rgba(0,0,0,0.4)) !important;}
-.divider > div{
-  background: none !important;}
-.divider > span{
+  animation: mentions 3s infinite !important;
+}
+
+.divider:before {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), var(--tc-color1), rgba(0, 0, 0, 0.4)) !important;
+}
+
+.divider>div {
+  background: none !important;
+}
+
+.divider>span {
   background: #445e73 !important;
-  color: var(--tc-color1) !important;}
-.message-group:not(.has-divider){
-  border-bottom-color: rgba(0,0,0,0) !important;}
+  color: var(--tc-color1) !important;
+}
+
+.message-group:not(.has-divider) {
+  border-bottom-color: rgba(0, 0, 0, 0) !important;
+}

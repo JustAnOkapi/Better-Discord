@@ -10,7 +10,7 @@
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseCustomLoad/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UseColoredScroll/yes.css";
 @import "https://rawgit.com/JustAnOkapi/Better-Discord/master/SourceCode/UsePopAnimations/yes.css";
-:root{
+:root {
   --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
   --tc-selected-channel: #2989d8; /* color for text chanels when selected */
   --tc-color1: #5bbbff; /* the main theme color */
