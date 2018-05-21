@@ -1,5 +1,5 @@
 .scroller::-webkit-scrollbar-thumb {
-  border:none !important;
+  border: none !important;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0), var(--tc-scrollbar), rgba(0, 0, 0, 0)) !important;
 }
 .scroller::-webkit-scrollbar-track {
