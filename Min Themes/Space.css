@@ -1,4 +1,4 @@
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/Min/AllMiniThemes.css";
+@import url(https://rawgit.com/JustAnOkapi/Better-Discord/master/Min/AllMiniThemes.css);
 :root {
   --load1: "Space Theme"; /* the 1st loading message */
   --load2: "By"; /* the 2st loading message */
