@@ -1,9 +1,9 @@
-.member-3W1lQa:hover {
+.member-3W1lQa:hover, .channel:hover {
   transform: translateX(-10px) !important;
   transition: 0.2s !important;
 }
 
-.member-3W1lQa:not(:hover) {
+.member-3W1lQa:not(:hover), .channel:not(:hover) {
   transform: translateX(10px) !important;
   transition: 0.2s !important;
 }
