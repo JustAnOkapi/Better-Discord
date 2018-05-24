@@ -1,9 +1,9 @@
-.memberOnline-1CIh-0:hover {
+.member-3W1lQa:hover {
   transform: translateX(-10px) !important;
   transition: 0.2s !important;
 }
 
-.memberOnline-1CIh-0:not(:hover) {
+.member-3W1lQa:not(:hover) {
   transform: translateX(10px) !important;
   transition: 0.2s !important;
 }
