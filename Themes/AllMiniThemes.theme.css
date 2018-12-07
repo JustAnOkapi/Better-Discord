@@ -1,5 +1,5 @@
 //META{"name":"All Mini Themes (auto update", "description":"All Of Just An Okapi's Mini Themes In One Package.", "version":"ersion)", "author":"Just An Okapi"}*//
-@import "https://rawgit.com/JustAnOkapi/Better-Discord/master/Min/AllMiniThemes.css";
+@import "https://cdn.jsdelivr.net/gh/JustAnOkapi/Better-Discord/Min/AllMiniThemes.css";
 :root {
   --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
   --tc-selected-channel: #2989d8; /* color for text chanels when selected */

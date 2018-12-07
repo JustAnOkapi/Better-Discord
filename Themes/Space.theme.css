@@ -1,5 +1,5 @@
 //META{"name":"Space Theme (auto update", "description":"A Space theme with customizability.", "version":"ersion)", "author":"Just An Okapi"}*//
-@import url("https://rawgit.com/JustAnOkapi/Better-Discord/master/Min Themes/Space.css");
+@import url("https://cdn.jsdelivr.net/gh/JustAnOkapi/Better-Discord/Min Themes/Space.css");
 :root {
   --tc-hovered-channel: #5bbbff; /* color for text chanels when hovered */
   --tc-selected-channel: #2989d8; /* color for text chanels when selected */
